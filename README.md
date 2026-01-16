@@ -60,12 +60,7 @@ Data Analysis | Visualization | Predictive Modeling | Statistical Analysis
 
 ## 📊 GitHub Stats
 
-![Sabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=myselfsabin&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfsabin&theme=ambient_gradient&hide_border=false&include_all_commits=false&layout=compact)  
+![Sabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=myselfsabin&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)   
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=myselfsabin&theme=ambient_gradient&hide_border=false)  
 
----
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=myselfsabin&icon=0&color=0)](https://visitcount.itsvg.in)
