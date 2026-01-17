@@ -3,18 +3,18 @@
 =========================== -->
 <div align="center" style="position: relative;">
 
-  <!-- Background GIF (rain/snow/waves) -->
+  <!-- Background GIF -->
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/rain.gif" width="100%" height="250"/>
 
   <!-- Typing animation -->
   <div style="position: absolute; top: 40%; width: 100%;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sabin+Sapkota;Machine+Learning+%26+Data+Science;AI+Enthusiast" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile;Machine+Learning+%26+Data+Science;AI+Enthusiast" />
   </div>
 </div>
 
 ---
 
-# 💫 Hi, I'm Sabin Sapkota 👋
+# 💫 Welcome to my profile 👋
 
 ## About Me
 I'm a **Machine Learning & Data Science enthusiast** with a passion for exploring data, building predictive models, and creating AI solutions that make an impact.
@@ -62,4 +62,4 @@ Matplotlib | Seaborn | Plotly
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=myselfsabin&theme=ambient_gradient&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=myselfsabin&theme=dark&hide_border=false)
