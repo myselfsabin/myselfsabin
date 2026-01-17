@@ -62,4 +62,4 @@ Matplotlib | Seaborn | Plotly
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=myselfsabin&theme=dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myselfsabin&show_icons=true&theme=radical)
