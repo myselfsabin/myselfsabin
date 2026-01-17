@@ -1,6 +1,7 @@
 <!-- ==========================
   Animated Header + Typing
 =========================== -->
+
 <div align="center" style="position: relative;">
 
   <!-- Background GIF -->
@@ -8,7 +9,16 @@
 
   <!-- Typing animation -->
   <div style="position: absolute; top: 40%; width: 100%;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile;Machine+Learning+%26+Data+Science;AI+Enthusiast" />
+    <img src="https://readme-typing-svg.demolab.com
+      ?font=Fira+Code
+      &size=28
+      &pause=1000
+      &center=true
+      &vCenter=true
+      &width=900
+      &lines=%E2%9C%A6+Welcome+to+my+profile+%E2%9C%A6
+      ;%E2%9A%A1+Machine+Learning+%26+Data+Science
+      ;%F0%9F%A4%96+AI+Enthusiast" />
   </div>
 </div>
 
