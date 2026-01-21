@@ -41,5 +41,7 @@ I’m a **Machine Learning & Data Science practitioner** with a strong foundatio
 
 <!-- BOTTOM GRADIENT -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:FFA500,100:FFFF00&height=120&section=footer" width="100%" />
 </div>
+
+
