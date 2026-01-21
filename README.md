@@ -29,10 +29,11 @@ I’m a **Machine Learning & Data Science practitioner** with a strong foundatio
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SabinSapkota&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SabinSapkota&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabinSapkota&theme=tokyonight&hide=Jupyter%20Notebook" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabinSapkota&layout=compact&theme=tokyonight" height="170"/>
 
 </div>
+
 
 ---
 
