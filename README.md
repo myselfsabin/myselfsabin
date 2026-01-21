@@ -18,6 +18,12 @@ building intelligent systems, analyzing data, and solving real-world problems us
 
 ---
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SabinSapkota&label=Profile%20Views&color=blueviolet&style=flat" />
+</div>
+
+---
+
 ## 🧠 Tech Stack
 <div align="center">
 
