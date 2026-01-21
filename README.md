@@ -30,7 +30,7 @@ I’m a **Machine Learning & Data Science practitioner** with a strong foundatio
 
 <img src="https://github-readme-stats.vercel.app/api?username=SabinSapkota&show_icons=true&theme=tokyonight" height="170"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabinSapkota&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabinSapkota&layout=compact&bg_color=0:00B4DB,100:0083B0&title_color=ffffff&text_color=ffffff&hide=Jupyter%20Notebook" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabinSapkota&theme=tokyonight&hide=Jupyter%20Notebook" height="170"/>
 
 </div>
 
@@ -47,5 +47,3 @@ I’m a **Machine Learning & Data Science practitioner** with a strong foundatio
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=120&section=footer" width="100%" />
 </div>
-
----
