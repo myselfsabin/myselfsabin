@@ -45,6 +45,7 @@ building intelligent systems, analyzing data, and solving real-world problems us
 
 <img src="https://github-readme-stats.vercel.app/api?username=SabinSapkota&show_icons=true&theme=tokyonight" height="170"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabinSapkota&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabinSapkota&layout=compact&bg_color=0:00B4DB,100:0083B0&title_color=ffffff&text_color=ffffff&hide=Jupyter%20Notebook" height="170"/>
 
 </div>
 
@@ -57,18 +58,9 @@ building intelligent systems, analyzing data, and solving real-world problems us
 
 ---
 
-## 🐍 Contribution Graph
+<!-- Gradient Divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=120&section=footer" width="100%" />
 </div>
 
 ---
-
-## 🌐 Connect With Me
-<div align="center">
-
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/imsabin)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/imsabin7)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sabin_solo)
-
-</div>
