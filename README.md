@@ -1,41 +1,26 @@
-<!-- Animated Header -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/rain.gif" width="100%" height="250"/>
-</div>
-
 <!-- Typing -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Sabin+Sapkota;Machine+Learning+%7C+Data+Science;AI+Enthusiast" />
 </div>
 
----
+## 👋 Hello, I’m Sabin Sapkota
 
-## 👨‍💻 About Me
-<div align="center">
-Machine Learning & Data Science enthusiast passionate about  
-building intelligent systems, analyzing data, and solving real-world problems using AI.
-</div>
+I’m a **Machine Learning & Data Science practitioner** with a strong foundation in Python, data analysis, and model building. I love turning real-world problems into data-driven solutions using statistical thinking and ML techniques.
+
+🔭 **I’m currently working on:** building predictive ML models and exploring real-world datasets to improve decision-making.
+
+🌱 **I’m currently learning:** Deep Learning (neural networks, CNNs, RNNs, transformers) and advanced model deployment.
+
+👯 **I’m looking to collaborate on:** data science projects, ML research, and AI-based applications that create real impact.
+
+🤝 **I’m looking for help with:** scaling ML models, optimizing training pipelines, and improving model performance with best practices.
+
+⚡ **Fun fact:** I love solving puzzles and learning new algorithms — and I drink way too much tea ☕
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SabinSapkota&label=Profile%20Views&color=blueviolet&style=flat" />
-</div>
-
----
-
-## 🧠 Tech Stack
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
 </div>
 
 ---
@@ -58,7 +43,7 @@ building intelligent systems, analyzing data, and solving real-world problems us
 
 ---
 
-<!-- Gradient Divider -->
+<!-- BOTTOM GRADIENT -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=120&section=footer" width="100%" />
 </div>
