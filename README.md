@@ -36,13 +36,6 @@ I’m a **Machine Learning & Data Science practitioner** with a strong foundatio
 
 ---
 
-## 🏆 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SabinSapkota&theme=onedark&no-frame=true&row=1" />
-</div>
-
----
-
 <!-- BOTTOM GRADIENT -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=120&section=footer" width="100%" />
