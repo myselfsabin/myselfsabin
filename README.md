@@ -4,7 +4,6 @@
 </div>
 
 
-
 ## 👋 Hello, I’m Sabin Sapkota
 
 I’m a **Machine Learning & Data Science practitioner** with a strong foundation in Python, data analysis, and model building. I love turning real-world problems into data-driven solutions using statistical thinking and ML techniques.
