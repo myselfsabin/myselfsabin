@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Sabin+Sapkota;Machine+Learning+Engineer;Data+Scientist" />
 </div>
 
-
 ## 👋 Hello, I’m Sabin Sapkota
 
 I’m a **Machine Learning & Data Science practitioner** with a strong foundation in Python, data analysis, and model building. I love turning real-world problems into data-driven solutions using statistical thinking and ML techniques.
@@ -29,12 +28,11 @@ I’m a **Machine Learning & Data Science practitioner** with a strong foundatio
 ## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SabinSapkota&show_icons=true&theme=tokyonight" height="170"/>
+<img src="./stats.svg" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabinSapkota&layout=compact&theme=tokyonight" height="170"/>
+<img src="./langs.svg" height="170"/>
 
 </div>
-
 
 ---
 
@@ -42,5 +40,3 @@ I’m a **Machine Learning & Data Science practitioner** with a strong foundatio
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:FFA500,100:FFFF00&height=120&section=footer" width="100%" />
 </div>
-
-
