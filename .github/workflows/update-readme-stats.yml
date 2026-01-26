@@ -48,4 +48,7 @@ jobs:
           fi
 
           git commit -m "Update GitHub stats"
+
+          # Ensure we are pushing to the latest remote state
+          git fetch origin main
           git push --force-with-lease https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
