@@ -35,4 +35,6 @@ jobs:
           fi
 
           git commit -m "Update GitHub stats"
+          git pull --rebase https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git main
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+
