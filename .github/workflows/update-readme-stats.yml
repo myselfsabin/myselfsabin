@@ -6,25 +6,24 @@ permissions:
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 */6 * * *"
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Download GitHub stats images
         run: |
-          curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=myselfsabin&show_icons=true&theme=tokyonight"
-          curl -o langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=myselfsabin&layout=compact&theme=tokyonight"
+          curl -L -o stats.svg "https://github-readme-stats.vercel.app/api?username=myselfsabin&show_icons=true&theme=tokyonight&cache_seconds=0"
+          curl -L -o langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=myselfsabin&layout=compact&theme=tokyonight&cache_seconds=0"
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add stats.svg langs.svg
-          git commit -m "Update GitHub stats" || echo "No changes to commit"
+          git commit -m "Update GitHub stats" || exit 0
           git push
