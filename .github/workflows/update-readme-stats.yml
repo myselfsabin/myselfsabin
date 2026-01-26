@@ -8,12 +8,19 @@ on:
   schedule:
     - cron: "0 */6 * * *"
 
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # CRITICAL
 
       - name: Download GitHub stats images
         run: |
@@ -27,6 +34,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+          # Always sync first
+          git pull --rebase https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git main
+
           git add stats.svg langs.svg
 
           if git diff --cached --quiet; then
@@ -35,6 +45,4 @@ jobs:
           fi
 
           git commit -m "Update GitHub stats"
-          git pull --rebase https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git main
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
-
