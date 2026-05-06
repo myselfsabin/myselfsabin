@@ -15,7 +15,7 @@ I’m a **Machine Learning & Data Science practitioner** with a strong foundatio
 
 🤝 **I’m looking for help with:** scaling ML models, optimizing training pipelines, and improving model performance with best practices.
 
-⚡ Fun fact: I’m a self-taught learner who loves solving puzzles and mastering new algorithms — and I drink way too much milk!
+⚡ Fun fact: I’m a self-taught learner who loves solving puzzles and mastering new algorithms — and I Love Sanskrit!
 
 ---
 
