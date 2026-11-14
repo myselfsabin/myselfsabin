@@ -36,6 +36,11 @@ I’m a **Machine Learning & Data Science practitioner** with a strong foundatio
 
 ---
 
+<div align="center">
+  <i>"विद्या ददाति विनयम्"</i><br/>
+  <sub>Knowledge gives humility.</sub>
+</div>
+
 <!-- BOTTOM GRADIENT -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:FFA500,100:FFFF00&height=120&section=footer" width="100%" />
